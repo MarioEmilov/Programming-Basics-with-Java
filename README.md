@@ -11,5 +11,7 @@ After this I was able to do:
 6. Work with more complex loops (nested loops and while loops)
 
 After that I received this Certificate:
-[Programming Basics - February 2021 - Certificate.pdf](https://github.com/MarioEmilov/Programming-Basics-with-Java/files/6991744/Programming.Basics.-.February.2021.-.Certificate.pdf)
+
+![Programming Basics - February 2021 - Certificate](https://user-images.githubusercontent.com/88974458/129560895-bfa2fce1-bfdd-4bbc-bc5a-702f32b8af2d.jpeg)
+
 Nothing special.
