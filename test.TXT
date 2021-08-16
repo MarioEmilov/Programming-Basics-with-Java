@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Creating with Tortoise
 dont do it
+=======
+Creating with Bash
+Creating with Tortoise
+>>>>>>> d4d47ac41272bbfdaf91556d678c035f03f798c2
