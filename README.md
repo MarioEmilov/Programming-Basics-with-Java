@@ -12,4 +12,4 @@ After this I was able to do:
 
 After that I received this Certificate:
 [Programming Basics - February 2021 - Certificate.pdf](https://github.com/MarioEmilov/Programming-Basics-with-Java/files/6991744/Programming.Basics.-.February.2021.-.Certificate.pdf)
-
+Nothing special.
