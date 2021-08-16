@@ -9,3 +9,7 @@ After this I was able to do:
 4. Work with more logical checks
 5. Work with loops (for)
 6. Work with more complex loops (nested loops and while loops)
+
+After that I received this Certificate:
+[Programming Basics - February 2021 - Certificate.pdf](https://github.com/MarioEmilov/Programming-Basics-with-Java/files/6991744/Programming.Basics.-.February.2021.-.Certificate.pdf)
+
