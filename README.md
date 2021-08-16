@@ -1,5 +1,5 @@
 # Programming-Basics-with-Java
-![Logo SoftUni](https://user-images.githubusercontent.com/88974458/129536428-e5f39d8b-769e-438b-ad24-e7f9331ac2b2.png)
+![SoftUni](https://user-images.githubusercontent.com/88974458/129536584-1f953e21-5d26-46a1-aa7b-2ad52ce35350.png)
 
 The course started in february 2021 and it was two months.
 After this I was able to do: 
